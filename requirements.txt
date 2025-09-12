@@ -1,0 +1,38 @@
+# Web Framework
+flask==3.1.2
+flask-cors==6.0.1
+gunicorn==23.0.0
+
+# AI/ML
+openai==1.107.1
+
+# Development and Testing
+pytest==8.4.2
+python-dotenv==1.1.1
+
+# WebSocket Support for Live Logs  
+flask-socketio==5.5.1
+python-socketio==5.13.0
+
+# Dependencies (automatically managed)
+werkzeug==3.1.3
+jinja2==3.1.6
+click==8.2.1
+blinker==1.9.0
+itsdangerous==2.2.0
+markupsafe==3.0.2
+
+# OpenAI Dependencies
+httpx==0.28.1
+pydantic==2.11.7
+anyio==4.10.0
+distro==1.9.0
+tqdm==4.67.1
+typing-extensions==4.15.0
+
+# Testing Dependencies
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+google-genai
+google-genai
